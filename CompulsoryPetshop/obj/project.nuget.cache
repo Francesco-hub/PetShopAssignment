@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6WpSCW6tQu1GSywE8Han8M1J3nUTwXbHBFIqO6bGymfH9Mk2l9bYDvtyT3FCN/ydkKFDlbnPwEmnIwX77K1yMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tesol\\Documents\\GitHub\\CompulsoryPetshop-master\\CompulsoryPetshop\\CompulsoryPetshop.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tesol\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "C:\\Users\\Tesol\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}
