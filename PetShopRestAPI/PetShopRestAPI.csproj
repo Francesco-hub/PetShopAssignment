@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>c0e989d9-99ff-4536-874a-0fea98edcb7d</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CompulsoryPetshop.Core.Entities\CompulsoryPetshop.Core.Entities.csproj" />
+    <ProjectReference Include="..\CompulsoryPetshop.Core\CompulsoryPetshop.Core.csproj" />
+    <ProjectReference Include="..\Infrastructure.Data\Infrastructure.Data.csproj" />
+  </ItemGroup>
+
+
+</Project>

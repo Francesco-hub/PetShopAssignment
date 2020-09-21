@@ -22,3 +22,15 @@ C:\Users\Tesol\Documents\GitHub\CompulsoryPetshop-master\CompulsoryPetshop.Core\
 C:\Users\Tesol\Documents\GitHub\CompulsoryPetshop-master\CompulsoryPetshop.Core\obj\Debug\netcoreapp3.1\CompulsoryPetshop.Core.csproj.CopyComplete
 C:\Users\Tesol\Documents\GitHub\CompulsoryPetshop-master\CompulsoryPetshop.Core\obj\Debug\netcoreapp3.1\CompulsoryPetshop.Core.dll
 C:\Users\Tesol\Documents\GitHub\CompulsoryPetshop-master\CompulsoryPetshop.Core\obj\Debug\netcoreapp3.1\CompulsoryPetshop.Core.pdb
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core\bin\Debug\netcoreapp3.1\CompulsoryPetshop.Core.deps.json
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core\bin\Debug\netcoreapp3.1\CompulsoryPetshop.Core.dll
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core\bin\Debug\netcoreapp3.1\CompulsoryPetshop.Core.pdb
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core\bin\Debug\netcoreapp3.1\CompulsoryPetshop.Core.Entities.dll
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core\bin\Debug\netcoreapp3.1\CompulsoryPetshop.Core.Entities.pdb
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core\obj\Debug\netcoreapp3.1\CompulsoryPetshop.Core.csprojAssemblyReference.cache
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core\obj\Debug\netcoreapp3.1\CompulsoryPetshop.Core.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core\obj\Debug\netcoreapp3.1\CompulsoryPetshop.Core.AssemblyInfo.cs
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core\obj\Debug\netcoreapp3.1\CompulsoryPetshop.Core.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core\obj\Debug\netcoreapp3.1\CompulsoryPetshop.Core.csproj.CopyComplete
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core\obj\Debug\netcoreapp3.1\CompulsoryPetshop.Core.dll
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core\obj\Debug\netcoreapp3.1\CompulsoryPetshop.Core.pdb

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CompulsoryPetshop.Core.Entities;
+using System;
 
 namespace CompulsoryPetshop.UI
 {
@@ -10,7 +11,7 @@ namespace CompulsoryPetshop.UI
         public DateTime BirthDate { get; set; }
         public DateTime SoldDate { get; set; }
         public string Color { get; set; }
-        public string PrevOwner { get; set; }
+        public Owner PrevOwner { get; set; }
         public double Price { get; set; }
 
        

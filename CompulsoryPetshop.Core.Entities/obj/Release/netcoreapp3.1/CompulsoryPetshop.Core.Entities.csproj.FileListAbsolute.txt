@@ -1,0 +1,9 @@
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core.Entities\bin\Release\netcoreapp3.1\CompulsoryPetshop.Core.Entities.deps.json
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core.Entities\bin\Release\netcoreapp3.1\CompulsoryPetshop.Core.Entities.dll
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core.Entities\bin\Release\netcoreapp3.1\CompulsoryPetshop.Core.Entities.pdb
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core.Entities\obj\Release\netcoreapp3.1\CompulsoryPetshop.Core.Entities.csprojAssemblyReference.cache
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core.Entities\obj\Release\netcoreapp3.1\CompulsoryPetshop.Core.Entities.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core.Entities\obj\Release\netcoreapp3.1\CompulsoryPetshop.Core.Entities.AssemblyInfo.cs
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core.Entities\obj\Release\netcoreapp3.1\CompulsoryPetshop.Core.Entities.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core.Entities\obj\Release\netcoreapp3.1\CompulsoryPetshop.Core.Entities.dll
+D:\Documentos\GitHub\PetShopInRestAPI\PetshopRestAPI\CompulsoryPetshop.Core.Entities\obj\Release\netcoreapp3.1\CompulsoryPetshop.Core.Entities.pdb

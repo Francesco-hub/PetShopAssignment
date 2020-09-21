@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8q5OOjgXy6jw0H/0UAmv6PhJ4BJSYaBKd/kw2pPkhMQVFAA/nJdC6FoTaXz7rcHYWFAj/BcTfzZKh8AQUhQ17g==",
+  "dgSpecHash": "qY1tCdcnl2XA9zEn4gb97JF/me7GrldhllRtnyajpG5YPoraZ/Xy7zQxwXZeKGDoKgyF2juUoWuy2AQQeuzWXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tesol\\Documents\\GitHub\\CompulsoryPetshop-master\\CompulsoryPetshop.Core\\CompulsoryPetshop.Core.csproj",
+  "projectFilePath": "D:\\Documentos\\GitHub\\PetShopInRestAPI\\PetshopRestAPI\\CompulsoryPetshop.Core\\CompulsoryPetshop.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

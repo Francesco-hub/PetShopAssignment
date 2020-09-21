@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tesol\\.nuget\\packages\\": {}
+    "C:\\Users\\Francesco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tesol\\Documents\\GitHub\\CompulsoryPetshop-master\\CompulsoryPetshop.Core\\CompulsoryPetshop.Core.csproj",
+      "projectUniqueName": "D:\\Documentos\\GitHub\\PetShopInRestAPI\\PetshopRestAPI\\CompulsoryPetshop.Core\\CompulsoryPetshop.Core.csproj",
       "projectName": "CompulsoryPetshop.Core",
-      "projectPath": "C:\\Users\\Tesol\\Documents\\GitHub\\CompulsoryPetshop-master\\CompulsoryPetshop.Core\\CompulsoryPetshop.Core.csproj",
-      "packagesPath": "C:\\Users\\Tesol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tesol\\Documents\\GitHub\\CompulsoryPetshop-master\\CompulsoryPetshop.Core\\obj\\",
+      "projectPath": "D:\\Documentos\\GitHub\\PetShopInRestAPI\\PetshopRestAPI\\CompulsoryPetshop.Core\\CompulsoryPetshop.Core.csproj",
+      "packagesPath": "C:\\Users\\Francesco\\.nuget\\packages\\",
+      "outputPath": "D:\\Documentos\\GitHub\\PetShopInRestAPI\\PetshopRestAPI\\CompulsoryPetshop.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tesol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Francesco\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Tesol\\Documents\\GitHub\\CompulsoryPetshop-master\\CompulsoryPetshop.Core.Entities\\CompulsoryPetshop.Core.Entities.csproj": {
-              "projectPath": "C:\\Users\\Tesol\\Documents\\GitHub\\CompulsoryPetshop-master\\CompulsoryPetshop.Core.Entities\\CompulsoryPetshop.Core.Entities.csproj"
+            "D:\\Documentos\\GitHub\\PetShopInRestAPI\\PetshopRestAPI\\CompulsoryPetshop.Core.Entities\\CompulsoryPetshop.Core.Entities.csproj": {
+              "projectPath": "D:\\Documentos\\GitHub\\PetShopInRestAPI\\PetshopRestAPI\\CompulsoryPetshop.Core.Entities\\CompulsoryPetshop.Core.Entities.csproj"
             }
           }
         }

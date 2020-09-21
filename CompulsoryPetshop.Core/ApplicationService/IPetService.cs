@@ -8,11 +8,11 @@ namespace CompulsoryPetshop.Core.ApplicationService
     public interface IPetService
     {
         public List<Pet> GetAllPets();
-        public void CreateNewPet(Pet pet);
+        public Pet CreateNewPet(Pet pet);
 
-        public void DeletePet(int id);
+        public Pet DeletePet(int id);
 
-        public void UpdatePet(Pet previousPet, Pet updatedPet);
+        public Pet UpdatePet(int id, Pet updatedPet);
 
         public Pet ReadPetById(int id);
 
